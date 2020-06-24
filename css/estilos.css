@@ -3,6 +3,16 @@ body
     color: #333;
     text-align: left;
     font-family: "Arial";
+}  
+#cabecera 
+{
+    background: #33A;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0, 0, 0.5) ;
+    color: white; 
+    margin: 0;
+    padding: 0.5em;
+
+
 }
 #container
 {
@@ -16,4 +26,9 @@ body
 #container h1
 {
     font-size: 20px;
+}
+
+#post 
+{
+    padding: 1em; 
 }
